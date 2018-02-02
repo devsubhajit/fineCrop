@@ -1,0 +1,2 @@
+# fineCrop
+jQuery FineCrop plugin
